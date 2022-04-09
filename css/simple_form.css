@@ -18,7 +18,10 @@ body{
     font-weight: bold;
     margin-bottom: 20px;
 }
-
+.text-error{
+    font:red;
+    font-weight: bold;
+}
 form{
     margin-top: 50px;
 }
